@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrian-glz
 - 👀 I’m interested in  the programation world also  in technological advance 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Some shi... shield
 - 📫 How to reach me ...
 
 <!---
